@@ -13,3 +13,25 @@ client.on('ready', () => {
 client.user.setGame(`-help | ${client.guilds.size} Servers `,"http://twitch.tv/Pixel Bot")
 client.user.setStatus("dnd")
 });
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+client.login(process_env.BOT_TOKEN);
